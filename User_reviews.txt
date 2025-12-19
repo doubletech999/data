@@ -1,0 +1,6 @@
+name,review,sentiment
+majed,the place was amazing and the food was great,positive
+fuad,the food was good but the service was slow,neutral
+mahmoud,i did not like the food at all,negative
+besan,the place was clean and the view was nice,positive
+nael,the food was okay nothing special,neutral
